@@ -3,11 +3,11 @@ runtime: org.gnome.Platform
 runtime-version: "50"
 sdk: org.gnome.Sdk
 sdk-extensions:
-  - org.freedesktop.Sdk.Extension.dotnet8
+  - org.freedesktop.Sdk.Extension.dotnet10
 build-options:
-  prepend-path: /usr/lib/sdk/dotnet8/bin
-  append-ld-library-path: /usr/lib/sdk/dotnet8/lib
-  prepend-pkg-config-path: /usr/lib/sdk/dotnet8/lib/pkgconfig
+  prepend-path: /usr/lib/sdk/dotnet10/bin
+  append-ld-library-path: /usr/lib/sdk/dotnet10/lib
+  prepend-pkg-config-path: /usr/lib/sdk/dotnet10/lib/pkgconfig
   arch:
     aarch64:
       env:
@@ -19,7 +19,7 @@ build-options:
 command: webcamcontrol
 
 finish-args:
-  # Required for access to webcams (/sys/class/video4linux/ and /dev/video*) 
+  # Required for access to webcams (/sys/class/video4linux/ and /dev/video*)
   - --device=all
   - --env=DOTNET_ROOT=/app/lib/dotnet
   - --share=ipc
@@ -32,14 +32,14 @@ modules:
     sources:
       - type: git
         url: https://github.com/Daniel15/WebCamControl.git
-        tag: v1.1.1
-        commit: 7bf90c26a2ff66a1e5e70b1d6d08fa1fb0eb0fa5
+        tag: v1.2.0
+        commit: baaa180f990e6d1b807f60858b4462a7107f9301
       - ./nuget-sources.json
     build-commands:
       - dotnet msbuild src/WebCamControl.Gtk/WebCamControl.Gtk.csproj /t:BlueprintBuild
-      - dotnet publish src/WebCamControl.Gtk/WebCamControl.Gtk.csproj -c Release --runtime $RUNTIME --source ./nuget-sources --source /usr/lib/sdk/dotnet8/nuget/packages --self-contained true
+      - dotnet publish src/WebCamControl.Gtk/WebCamControl.Gtk.csproj -c Release --runtime $RUNTIME --source ./nuget-sources --source /usr/lib/sdk/dotnet10/nuget/packages --self-contained true
       - mkdir -p ${FLATPAK_DEST}/bin
-      - cp -r --remove-destination src/WebCamControl.Gtk/bin/Release/net8.0/$RUNTIME/publish/* ${FLATPAK_DEST}/bin
+      - cp -r --remove-destination src/WebCamControl.Gtk/bin/Release/net10.0/$RUNTIME/publish/* ${FLATPAK_DEST}/bin
       - install -D src/WebCamControl.Gtk/icon-512x512.png ${FLATPAK_DEST}/share/icons/hicolor/512x512/apps/com.daniel15.wcc.png
       - install -D src/WebCamControl.Gtk/com.daniel15.wcc.desktop ${FLATPAK_DEST}/share/applications/com.daniel15.wcc.desktop
       - install -D src/WebCamControl.Gtk/com.daniel15.wcc.metainfo.xml ${FLATPAK_DEST}/share/metainfo/com.daniel15.wcc.metainfo.xml
