@@ -8,101 +8,115 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.adw-1/0.5.0/gircore.adw-1.0.5.0.nupkg",
-        "sha512": "b31daba7d7a1c0bfc3911486aad13636e231e98dbc9059cd103b8ab88e89dcb06502df4bd10614187cfdf8d5b0baefa289559d416ea25549d2614b4e39e42dd5",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.adw-1/0.8.0-preview.1/gircore.adw-1.0.8.0-preview.1.nupkg",
+        "sha512": "bf150eac797edc4de67461f695b7f8f6f77ee9833a5b93e1ff4c81930fb7d596dcb8df989c6cbcb87ab04c471215de3c9dda3f6effd17b7bf18ac154547ce7df",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.adw-1.0.5.0.nupkg"
+        "dest-filename": "gircore.adw-1.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.cairo-1.0/0.5.0/gircore.cairo-1.0.0.5.0.nupkg",
-        "sha512": "1142c6ed0a7c5828cb71eb193a7f8ba64bff995ec073d11c5f118371ebce4426f00391788523a042326d598307e14d0e1ef4fe99f9ff1a7d76ba67cc865db0d6",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.cairo-1.0/0.8.0-preview.1/gircore.cairo-1.0.0.8.0-preview.1.nupkg",
+        "sha512": "78032ed18ff7c41978da211ec6425e45f9783d5d927825969c45d86e395d2ba9232df3ffc5114bfc3c9f7a7941b57f8ef45317dba61805e74d04601927991172",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.cairo-1.0.0.5.0.nupkg"
+        "dest-filename": "gircore.cairo-1.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.freetype2-2.0/0.5.0/gircore.freetype2-2.0.0.5.0.nupkg",
-        "sha512": "fb48da551b2faef1d1ef0de5b70514f1d1a0df16a3e84c6dafb136b8b4a17cb80459d7e6ab2f8da2224d3f01ae7912eac59f67d1c72256a8deb898fb3cf8cd2b",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.freetype2-2.0/0.8.0-preview.1/gircore.freetype2-2.0.0.8.0-preview.1.nupkg",
+        "sha512": "592ff99f1d18164e2b1df9863bf9d42992e8a63e55684df5396b0f14f46bf7af9fc10baf2fd1e2eaa9ac0697a13a6819714a284be6bd5f081b71f1f2b62c1199",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.freetype2-2.0.0.5.0.nupkg"
+        "dest-filename": "gircore.freetype2-2.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gdk-4.0/0.5.0/gircore.gdk-4.0.0.5.0.nupkg",
-        "sha512": "fd41be92a8acb68e2312f3cf446391f7c0abaa73317b4e0da39a688a53bb3704dd07ac6ad8b8dc73710cd742becb2165ebb6b413f457f534f6ccfac4b2f28205",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gdk-4.0/0.8.0-preview.1/gircore.gdk-4.0.0.8.0-preview.1.nupkg",
+        "sha512": "c444b335ea353e2b655bc1acd228d5662708381e073233cafd1e41bff01c5df77403ed72698ceed475c87d6f5e8a87cd9223dc2a0e09f049afb2c1c3f8fd3303",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.gdk-4.0.0.5.0.nupkg"
+        "dest-filename": "gircore.gdk-4.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gdkpixbuf-2.0/0.5.0/gircore.gdkpixbuf-2.0.0.5.0.nupkg",
-        "sha512": "48cba729d3261018fb614c9912ccceb803480e74230cb8e46e5e86cdd01b4d91cab7742656b903ebf78fff88bfa5a87c51c0078ffc85f30569967398a8643866",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gdkpixbuf-2.0/0.8.0-preview.1/gircore.gdkpixbuf-2.0.0.8.0-preview.1.nupkg",
+        "sha512": "c43c36b73ee4b41df4b7baedc5da6247797e0edeb0d53fb40c65370305babd8624d569f0dde8c2ab88cc6adb8c58223537f65e3da58fa126d4bb87392fa56b7b",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.gdkpixbuf-2.0.0.5.0.nupkg"
+        "dest-filename": "gircore.gdkpixbuf-2.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gio-2.0/0.5.0/gircore.gio-2.0.0.5.0.nupkg",
-        "sha512": "c44454cc292d4820b011ba099c3308ab09bc4f5e0b7727b37958393e2307e8eaecee16f1ab50d6cc0eb7174015bf3b821787c94a8cba295cf48954e2359e3cfe",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gio-2.0/0.8.0-preview.1/gircore.gio-2.0.0.8.0-preview.1.nupkg",
+        "sha512": "1e6b30e910d08ddf47e293a596a3965810da263de9fe7630c7dbe119fc0aa84631159c3baf14bd6644ff2a14fd9dae3368857f3250c38f8057073b7f40ec2ae4",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.gio-2.0.0.5.0.nupkg"
+        "dest-filename": "gircore.gio-2.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.glib-2.0/0.5.0/gircore.glib-2.0.0.5.0.nupkg",
-        "sha512": "29c5034207685b7e0992ab17ce1ab58f59d331d5f3722bf5ff6a66ee722102486bf90a4259a97a68a7da762261f5349700b8e286449804d74292d75364efa781",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.glib-2.0/0.8.0-preview.1/gircore.glib-2.0.0.8.0-preview.1.nupkg",
+        "sha512": "c8289e6ce4eeb3a26409b1e2d41902ca544021c6caaee1bcdba82a77cb48cf40c9b6c711b2bc36b63f856fd53d2417ae9aca50881b9df58cedf0f50b3a908b43",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.glib-2.0.0.5.0.nupkg"
+        "dest-filename": "gircore.glib-2.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gobject-2.0/0.5.0/gircore.gobject-2.0.0.5.0.nupkg",
-        "sha512": "1d2a548d4ba9e1d3c8d725a2f190563ad80b9c91139e90c338bd4b58276027f37a82612a3aa86c9f9d4a489b2f5e3fc9a11d9fbcf04584bf4a3a74dfe7ebaeab",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gobject-2.0/0.8.0-preview.1/gircore.gobject-2.0.0.8.0-preview.1.nupkg",
+        "sha512": "cd1dc85d4d5d19be89f75228ed75842c0cc394bf6ab9f87a637abaeeb6be2d659334f28f145e77e2b3fab6b22d4e5c50d2a217180121ce35e00fd0b82614259c",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.gobject-2.0.0.5.0.nupkg"
+        "dest-filename": "gircore.gobject-2.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.graphene-1.0/0.5.0/gircore.graphene-1.0.0.5.0.nupkg",
-        "sha512": "f9d28144b418c13b2ced89f2652e798962f046c8818da02e4256618178b12712f123a0df81408d23e61ab037ed013e50134a3624f6be967a8591232029b96995",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gobject-2.0.integration/0.8.0-preview.1/gircore.gobject-2.0.integration.0.8.0-preview.1.nupkg",
+        "sha512": "8dc33cb7f6ec3fcbeebf008a9d61e83d478bd1012eb4a558f93abe456266013f0f90c56f7c1dd5139a93876969acdec8e795fbe4d90cc03de70da8d69c2f2b3d",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.graphene-1.0.0.5.0.nupkg"
+        "dest-filename": "gircore.gobject-2.0.integration.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gsk-4.0/0.5.0/gircore.gsk-4.0.0.5.0.nupkg",
-        "sha512": "a68d52282dfda23d92a580ca24437c56182e7146c1aa18bbb841f3b80e46e91b74c6251d55f35b7168853013b46d03d0e80987479774e15e82a25aa55103b8c3",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.graphene-1.0/0.8.0-preview.1/gircore.graphene-1.0.0.8.0-preview.1.nupkg",
+        "sha512": "5b13ab37861f63b6a6f7d0a9fced5c36bd1f5eea4dc47ef4e9cf19110f29e0252fddba210273f785588d5a46165396e89dbf9f5bd3fa58e58476d5fcf18313e5",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.gsk-4.0.0.5.0.nupkg"
+        "dest-filename": "gircore.graphene-1.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gtk-4.0/0.5.0/gircore.gtk-4.0.0.5.0.nupkg",
-        "sha512": "848e081befca4a2cf82a9df5202a345aa30f7a5cf80fd1ea996f843ff8181a6b6f69544e03d99a8896db0b41772e5a19e558b298a209aee2d40c454f1da44771",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gsk-4.0/0.8.0-preview.1/gircore.gsk-4.0.0.8.0-preview.1.nupkg",
+        "sha512": "b0ec90d0063d7fe0840fc8ca4a8db6dcf77362717193bfcd4059e003ef8ad6288a7d5cc177d9c4e71fbf3c3bd2d1502af0126b94e9ed9079453df0310ba70e56",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.gtk-4.0.0.5.0.nupkg"
+        "dest-filename": "gircore.gsk-4.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.harfbuzz-0.0/0.5.0/gircore.harfbuzz-0.0.0.5.0.nupkg",
-        "sha512": "c502ada6ec5ccb8a0310c718d4b97c0f97a798a0316b6960ff45f8987628736acd40970275b1b79e2b0155e060adcbb4929c0bbfa388181dfe3c0f27800f8ae6",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gtk-4.0/0.8.0-preview.1/gircore.gtk-4.0.0.8.0-preview.1.nupkg",
+        "sha512": "d1b4488433ac94cf22041bc806ba998fb4a64a8071a310bf3b9de4db7fc50cf3d41134b10fa0b2dcf20e309f1bf64e7f3175ad88e009ef98955fb1e2db4d3c4c",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.harfbuzz-0.0.0.5.0.nupkg"
+        "dest-filename": "gircore.gtk-4.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.pango-1.0/0.5.0/gircore.pango-1.0.0.5.0.nupkg",
-        "sha512": "d37f91acc545c08972401077fc1663566529e80b310a54408582de80c1f00594d1a3e34ddb3c2d86a39511cda26952143f6ccf8889a18df95fad8abea29bd537",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.gtk-4.0.integration/0.8.0-preview.1/gircore.gtk-4.0.integration.0.8.0-preview.1.nupkg",
+        "sha512": "8b6b69082738eafddc032a9480b6b9f2a8356b30f4f7a76d038a65c454228d39531f905c014ecca1bdba2bd75120ec73ca34dc52b7e19b350779f0e70446aad2",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.pango-1.0.0.5.0.nupkg"
+        "dest-filename": "gircore.gtk-4.0.integration.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gircore.pangocairo-1.0/0.5.0/gircore.pangocairo-1.0.0.5.0.nupkg",
-        "sha512": "6e856b68694fe0f0039e46069add53cd195cb8893215016885382ef9c63ec47c1b3ac710c93429c32f7c970f6ee7b2c715632f87b5c5a6433d7611d17cc623f1",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.harfbuzz-0.0/0.8.0-preview.1/gircore.harfbuzz-0.0.0.8.0-preview.1.nupkg",
+        "sha512": "5f313f9a94ad1d91d0b76bbf8736c1f4968a5eec555275df42d1fbae2e2f07f1d9e81ecf971c565204c145831c805f2c88803ad1925f6db635ec72da8b9aa2c5",
         "dest": "nuget-sources",
-        "dest-filename": "gircore.pangocairo-1.0.0.5.0.nupkg"
+        "dest-filename": "gircore.harfbuzz-0.0.0.8.0-preview.1.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.pango-1.0/0.8.0-preview.1/gircore.pango-1.0.0.8.0-preview.1.nupkg",
+        "sha512": "35db1d2a012dc2f4cc5711839e92518a217b04f5727e266e3b1f8571ab31fed89bfc66760a30087baf4fdf96e5f4737840912ad222d8bcba411264163361991d",
+        "dest": "nuget-sources",
+        "dest-filename": "gircore.pango-1.0.0.8.0-preview.1.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/gircore.pangocairo-1.0/0.8.0-preview.1/gircore.pangocairo-1.0.0.8.0-preview.1.nupkg",
+        "sha512": "c6a3365f0b77228d1a619f73b97bf592a3226bab2e194c1b2e4ec78459d5dd38b0ca60732fbcb86822aa07d5beb997fe751958788ddef3227a212914d4e8466b",
+        "dest": "nuget-sources",
+        "dest-filename": "gircore.pangocairo-1.0.0.8.0-preview.1.nupkg"
     },
     {
         "type": "file",
@@ -110,6 +124,27 @@
         "sha512": "10e53bcec9ea634a3e3244923dfba5d04e9c7af52a0b018099396c6281cf311e80c3307738b995bd9d4cf72449b5876103f0761aa9141fe3c99aa56397ab56f0",
         "dest": "nuget-sources",
         "dest-filename": "microsoft.aspnetcore.app.runtime.linux-x64.10.0.6.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.analyzers/3.3.4/microsoft.codeanalysis.analyzers.3.3.4.nupkg",
+        "sha512": "23e462c3affa5a33480b276888da438cdfc618feeee17b0be95b08f651bf3a316e7c7ddf96f484cbf7f1361183546c195b0abfe41967a97f8b1f676685e68f7e",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.codeanalysis.analyzers.3.3.4.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.8.0/microsoft.codeanalysis.common.4.8.0.nupkg",
+        "sha512": "477bbe806b3f45a9221aa9c17fcd27883239ea909a37583eda7eba4262aa8fa7c0bfac70f6e112d81b70b4a3a442c893103a8f9ba564d0ec2b82c3f54bead26c",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.codeanalysis.common.4.8.0.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.8.0/microsoft.codeanalysis.csharp.4.8.0.nupkg",
+        "sha512": "d475570908796f4c3f284eea9e2d93d64d9d2bfe7e3fdb97c0e1eef8d0d4c17e99a65a4d1fde054944010bfc30ce3169c5f99d6217a7d4bbc6934878d1aff468",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.codeanalysis.csharp.4.8.0.nupkg"
     },
     {
         "type": "file",
