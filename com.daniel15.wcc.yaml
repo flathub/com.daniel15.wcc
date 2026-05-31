@@ -32,8 +32,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/Daniel15/WebCamControl.git
-        tag: v1.3.0
-        commit: 1df49d26e14e74505aa1224ca900b4549e882aab
+        tag: v1.3.1
+        commit: 23ef93e6df2a857caafa9c7f817b9f6dc415a22e
       - ./nuget-sources.json
     build-commands:
       - dotnet msbuild src/WebCamControl.Gtk/WebCamControl.Gtk.csproj /t:BlueprintBuild
